@@ -72,7 +72,7 @@ namespace ToyRobot.Command
         public void ReportPosition()
         {
             var position = this.robot.GetCurrentPosition();
-            Console.Write($"{position.Coordinate.X} {position.Coordinate.Y} {position.Direction.ToString("g")}");
+            Console.WriteLine($"{position.Coordinate.X}, {position.Coordinate.Y}, {position.Direction.ToString("g")}");
         }
     }
 }

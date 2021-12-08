@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/oem/work-space/ToyRobotProject/ToyRobot.Tests/ToyRobot.Tests.csproj": {}
+    "/home/oem/work-space/public/ToyRobotProject/ToyRobot.Tests/ToyRobot.Tests.csproj": {}
   },
   "projects": {
-    "/home/oem/work-space/ToyRobotProject/ToyRobot.Tests/ToyRobot.Tests.csproj": {
+    "/home/oem/work-space/public/ToyRobotProject/ToyRobot.Tests/ToyRobot.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/oem/work-space/ToyRobotProject/ToyRobot.Tests/ToyRobot.Tests.csproj",
+        "projectUniqueName": "/home/oem/work-space/public/ToyRobotProject/ToyRobot.Tests/ToyRobot.Tests.csproj",
         "projectName": "ToyRobot.Tests",
-        "projectPath": "/home/oem/work-space/ToyRobotProject/ToyRobot.Tests/ToyRobot.Tests.csproj",
+        "projectPath": "/home/oem/work-space/public/ToyRobotProject/ToyRobot.Tests/ToyRobot.Tests.csproj",
         "packagesPath": "/home/oem/.nuget/packages/",
-        "outputPath": "/home/oem/work-space/ToyRobotProject/ToyRobot.Tests/obj/",
+        "outputPath": "/home/oem/work-space/public/ToyRobotProject/ToyRobot.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/oem/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/oem/work-space/ToyRobotProject/ToyRobot/ToyRobot.csproj": {
-                "projectPath": "/home/oem/work-space/ToyRobotProject/ToyRobot/ToyRobot.csproj"
+              "/home/oem/work-space/public/ToyRobotProject/ToyRobot/ToyRobot.csproj": {
+                "projectPath": "/home/oem/work-space/public/ToyRobotProject/ToyRobot/ToyRobot.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "/home/oem/work-space/ToyRobotProject/ToyRobot/ToyRobot.csproj": {
+    "/home/oem/work-space/public/ToyRobotProject/ToyRobot/ToyRobot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/oem/work-space/ToyRobotProject/ToyRobot/ToyRobot.csproj",
+        "projectUniqueName": "/home/oem/work-space/public/ToyRobotProject/ToyRobot/ToyRobot.csproj",
         "projectName": "ToyRobot",
-        "projectPath": "/home/oem/work-space/ToyRobotProject/ToyRobot/ToyRobot.csproj",
+        "projectPath": "/home/oem/work-space/public/ToyRobotProject/ToyRobot/ToyRobot.csproj",
         "packagesPath": "/home/oem/.nuget/packages/",
-        "outputPath": "/home/oem/work-space/ToyRobotProject/ToyRobot/obj/",
+        "outputPath": "/home/oem/work-space/public/ToyRobotProject/ToyRobot/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/oem/.nuget/NuGet/NuGet.Config"

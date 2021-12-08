@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/oem/work-space/ToyRobotProject/ToyRobot/ToyRobot.csproj",
+      "projectUniqueName": "/home/oem/work-space/public/ToyRobotProject/ToyRobot/ToyRobot.csproj",
       "projectName": "ToyRobot",
-      "projectPath": "/home/oem/work-space/ToyRobotProject/ToyRobot/ToyRobot.csproj",
+      "projectPath": "/home/oem/work-space/public/ToyRobotProject/ToyRobot/ToyRobot.csproj",
       "packagesPath": "/home/oem/.nuget/packages/",
-      "outputPath": "/home/oem/work-space/ToyRobotProject/ToyRobot/obj/",
+      "outputPath": "/home/oem/work-space/public/ToyRobotProject/ToyRobot/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/oem/.nuget/NuGet/NuGet.Config"

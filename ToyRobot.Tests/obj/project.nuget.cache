@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KJroxHK8Ns4URccDILuPbnbe04xSaQg7D4hti5jyMM5Zy/dNXjuIz3QADtVIK2XfFNh+1UDO4eolR+k6mBxOZA==",
+  "dgSpecHash": "K0EBh7F8R2hJpmsbiH+wdAGNlW7l2WZx/qwbSKgcMJpnMbKk0vNCejAb3lid+wdEjORUGBgBfS66b7tdvgC/1A==",
   "success": true,
-  "projectFilePath": "/home/oem/work-space/ToyRobotProject/ToyRobot.Tests/ToyRobot.Tests.csproj",
+  "projectFilePath": "/home/oem/work-space/public/ToyRobotProject/ToyRobot.Tests/ToyRobot.Tests.csproj",
   "expectedPackageFiles": [
     "/home/oem/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
     "/home/oem/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",

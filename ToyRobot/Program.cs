@@ -19,7 +19,7 @@ namespace ToyRobot
      by using the following command:
      PLACE X,Y,F (Where X and Y are integers and F 
      must be either NORTH, SOUTH, EAST or WEST).
-     If robot is not placed his position is 0 0 NORTH.
+     If robot is not placed its position is 0 0 NORTH.
 
   2  After the robot is placed, 
      move it with the command below:           
@@ -66,7 +66,6 @@ namespace ToyRobot
                     }
                 }
             } while (!stopApp);
-
         }
     }
 }
