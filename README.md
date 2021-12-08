@@ -1,4 +1,5 @@
 #Toy Robot Simulator
+
 1.  Place the robot on a 5 X 5 grid, by using the following command:
      **PLACE X,Y,F** (Where X and Y are integers and F 
      must be either **NORTH**, **SOUTH**, **EAST** or **WEST**).
